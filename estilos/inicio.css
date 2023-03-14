@@ -1,0 +1,45 @@
+#logo3{
+    display: inline-block;
+    clear: both;
+    float: left;
+    border: dashed 2px;
+}
+
+h3{
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+    font-family: fantasy;
+    color: cornflowerblue;
+}
+h4{
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+    font-family: fantasy;
+}
+
+#txtTexto{
+    text-align: center;
+    text-align: justify;
+    font-family: cursive;
+}
+#marco2{
+    font-size: 16px;
+    border:solid;
+    padding: 10px;
+    text-align: justify;
+}
+#ftoimagen{
+    float:left;
+    display:inline-block;
+    clear: both;
+}
+p{
+    text-justify: inherit;
+}
+h5{
+    clear:both;
+    font-family: fantasy;
+    
+}

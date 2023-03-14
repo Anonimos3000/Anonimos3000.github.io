@@ -1,0 +1,23 @@
+h5{
+    text-align: center;
+    font-family: fantasy;
+    border: solid;
+    
+}
+h6{
+    text-align: center;
+}
+#logo5{
+    display: inline-block;
+    float: center;
+}
+#cuadro{
+    font-family:cursive;
+    font-size: 16px;
+    border:solid;
+    padding: 10px;
+    text-align: center;
+}
+#txtTexto{
+    text-align: justify;
+}

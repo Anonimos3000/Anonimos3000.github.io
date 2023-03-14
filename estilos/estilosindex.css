@@ -1,0 +1,39 @@
+#logo1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 15%;
+    background-color: cadetblue;
+    border: solid;
+    font-family: cursive;
+}
+#marco{
+    width: 98%;
+    padding: 9px;
+    height: 500px;
+    background-color: aquamarine;   
+    
+}
+#piePagina{
+    text-align: center;
+    font-family: fantasy;
+    border: solid;
+    width: 99%;
+    background-color:aqua;
+}

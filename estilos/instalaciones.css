@@ -1,0 +1,36 @@
+h2{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 2.5em;
+    color: blue;
+    text-decoration: underline;
+    
+    
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.5em;
+    background-color: azure;
+    
+}
+#logo6{
+    float: center;
+}
+#logo7{
+    display: inline-block;
+    border: dashed;
+    clear:both;
+}
+#cuadro{
+    font-family:cursive;
+    border: solid;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    font-size: 1.5em;
+    text-align: justify;
+}

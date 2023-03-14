@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+    font-family: italic;
+    font-size: 1.5em;
+    background-color: cadetblue
+}
+#txtTexto{
+    text-align: center;
+    border: dashed;
+    text-decoration: underline;
+    font-size: 1em;
+    background-color:burlywood;
+}
+.logo6{
+    float:left;
+    display: inline-block;
+    clear:both;
+}
+.txtTexto2{
+    clear:both;
+     font-family: cursive;
+    text-align: justify;
+    font-size: 1em;
+    padding: 40px;
+    font-family: cursive;
+    
+}
